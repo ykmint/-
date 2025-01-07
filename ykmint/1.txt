@@ -1,0 +1,15 @@
+pip install PyQt5 -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install pyqt5-tools -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install pyserial -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install matplotlib -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install pyinstaller -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install py2exe -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+pip install wheel -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install httplib2 -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+pip install serial -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install pyserial -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+pyinstaller -F  pyserial_demo.py -w
+
